@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JorBenH 🐲
+- 👋 Hi, I’m Jorge 🐲
 - 👀 I’m interested in web development, machine learning, videogame development and embedded software.
 - 💻 I’m currently learning TypeScript, Jest & CI/CD.
 - 🔧 I'm currently working on my own tech company and as a project manager on a Biomedical company.
